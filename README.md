@@ -13,19 +13,20 @@ LSTM neural network model for fake news classification
 
 Evaluation metrics: Accuracy, Precision, Recall, F1-Score, ROC AUC
 
-## 🛠️ Tech Stack
-Python
+## 🛠️ Tools & Libraries
+Python, Jupyter Notebooks
 
-NLTK, TextBlob
+NLP: spaCy, NLTK, TextBlob
 
-scikit-learn
+Modeling: scikit-learn, TensorFlow/Keras
 
-Gensim
+Topic Modeling: Gensim
 
-TensorFlow / Keras
-
-Matplotlib & Seaborn (for visualizations)
+Visualization: Seaborn, Matplotlib
 
 
 ### Dataset link
 https://www.kaggle.com/datasets/stevenpeutz/misinformation-fake-news-text-dataset-79k 
+
+## ✨ About Me
+I'm passionate about using data science and AI for real-world problem solving. Feel free to explore the code and reach out with any feedback or collaboration ideas!
