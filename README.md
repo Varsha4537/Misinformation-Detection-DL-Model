@@ -25,3 +25,7 @@ Gensim
 TensorFlow / Keras
 
 Matplotlib & Seaborn (for visualizations)
+
+
+### Dataset link
+https://www.kaggle.com/datasets/stevenpeutz/misinformation-fake-news-text-dataset-79k 
