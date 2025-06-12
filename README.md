@@ -29,4 +29,4 @@ Visualization: Seaborn, Matplotlib
 https://www.kaggle.com/datasets/stevenpeutz/misinformation-fake-news-text-dataset-79k 
 
 ## ✨ About Me
-I'm passionate about using data science and AI for real-world problem solving. Feel free to explore the code and reach out with any feedback or collaboration ideas!
+I'm passionate about using data science and AI for real-world problem solving. Feel free to explore the code!
